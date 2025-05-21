@@ -3,7 +3,7 @@ This project implements the Proximal Policy Optimization (PPO) algorithm with Py
 ## DEMO
 ![](https://github.com/EricChen0104/PPO_Car_Racing_OpenAI_gym/blob/master/plots/test_episode.gif)
 
-###To run the code:
+### To run the code:
 <br/> *cd to the **gym_car_racing** file in terminal. then run this:*
 ```Shell
 python3.10 main_car_racing.py
