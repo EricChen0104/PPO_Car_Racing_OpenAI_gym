@@ -1,4 +1,5 @@
 # PPO algorithm for Car Racing in OpenAI gym
+This project implements the Proximal Policy Optimization (PPO) algorithm with PyTorch, applied to the [CarRacing-v2](https://gymnasium.farama.org/environments/box2d/car_racing/) Box2D environment from the OpenAI Gym library.
 ## DEMO
 ![](https://github.com/EricChen0104/PPO_Car_Racing_OpenAI_gym/blob/master/plots/test_episode.gif)
 
